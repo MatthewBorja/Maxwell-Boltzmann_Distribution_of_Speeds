@@ -1,0 +1,34 @@
+# Ignore build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+*.a
+
+# Ignore temporary files
+*~
+*.tmp
+*.log
+
+# Ignore VS-specific folders and files
+.vs/
+*.vcxproj
+*.sln
+*.user
+*.suo
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.cache
+*.VC.db
+*.VC.opendb
+
+# Ignore custom config files
+CppProperties.json
